@@ -3,10 +3,13 @@
 
 The proposed model addresses the multi-task problem as a text-to-text generation task by utilizing a generative framework for financial complaint identification. Additionally, we introduce commonsense as external information to draw more informative intuitions and enhance the overall performance of the generative model.
 
+
 **X-FINCORP Dataset**
+
 We extend a Twitter-based financial complaint dataset(FINCORP), with the rationale or cause annotations for the complaint/non-complaint labels.  The dataset includes 3,133 typed samples of non-complaint and 3,149 complaint-typed samples in English. Each instance in the extended dataset (X-FINCORP) is now associated with five labels: complaint, emotion, polarity, severity, and complaint causal spans.
 
 _Complaint Cause_ is defined as a portion of the text that expresses why the user feels compelled to file a complaint. It is the speech act used by the individual to describe the circumstances in which their expectations have been violated. 
+
 
 **SOFTWARE**
 
