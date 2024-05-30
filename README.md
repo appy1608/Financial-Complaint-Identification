@@ -1,5 +1,5 @@
 # Financial-Complaint-Identification
-**Let the model make financial senses: A Text2Text generative approach for financial complaint identification**
+**[Let the model make financial senses: A Text2Text generative approach for financial complaint identification](https://link.springer.com/chapter/10.1007/978-3-031-33380-4_5)**
 
 The proposed model addresses the multi-task problem as a text-to-text generation task by utilizing a generative framework for financial complaint identification. Additionally, we introduce commonsense as external information to draw more informative intuitions and enhance the overall performance of the generative model.
 
